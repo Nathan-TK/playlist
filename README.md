@@ -15,13 +15,13 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your github account and import to a new workspace
-- [ ] Submit your website using the link on the Agenda
+- [x] Fork this repository to your github account and import to a new workspace
+- [x] Submit your website using the link on the Agenda
 
 #### Starter Code
 
-- [ ] Read through the HTML starter code to understand the organization and class names given.
-- [ ] Read through the JavaScript starter code to determine where each given function is declared and where each given function is called.
+- [x] Read through the HTML starter code to understand the organization and class names given.
+- [x] Read through the JavaScript starter code to determine where each given function is declared and where each given function is called.
 
 ### Day 1 Goal 2: Write the code to store your song titles in JavaScript
 
